@@ -1,0 +1,95 @@
+pizza_id,name,price
+bbq_ckn_s,The Barbecue Chicken Pizza (Small),12.75
+bbq_ckn_m,The Barbecue Chicken Pizza  (Medium),16.75
+bbq_ckn_l,The Barbecue Chicken Pizza  (Large),20.75
+cali_ckn_s,The California Chicken Pizza (Small),12.75
+cali_ckn_m,The California Chicken Pizza (Medium),16.75
+cali_ckn_l,The California Chicken Pizza (Large),20.75
+ckn_alfredo_s,The Chicken Alfredo Pizza (Small),12.75
+ckn_alfredo_m,The Chicken Alfredo Pizza (Medium),16.75
+ckn_alfredo_l,The Chicken Alfredo Pizza (Large),20.75
+ckn_pesto_s,The Chicken Pesto Pizza (Small),12.75
+ckn_pesto_m,The Chicken Pesto Pizza (Medium),16.75
+ckn_pesto_l,The Chicken Pesto Pizza (Large),20.75
+southw_ckn_s,The Southwest Chicken Pizza (Small),12.75
+southw_ckn_m,The Southwest Chicken Pizza (Medium),16.75
+southw_ckn_l,The Southwest Chicken Pizza (Large),20.75
+thai_ckn_s,The Thai Chicken Pizza (Small),12.75
+thai_ckn_m,The Thai Chicken Pizza (Medium),16.75
+thai_ckn_l,The Thai Chicken Pizza (Large),20.75
+big_meat_s,The Big Meat Pizza (Small),12
+big_meat_m,The Big Meat Pizza (Medium),16
+big_meat_l,The Big Meat Pizza (Large),20.5
+classic_dlx_s,The Classic Deluxe Pizza (Small),12
+classic_dlx_m,The Classic Deluxe Pizza (Medium),16
+classic_dlx_l,The Classic Deluxe Pizza (Large),20.5
+hawaiian_s,The Hawaiian Pizza (Small),10.5
+hawaiian_m,The Hawaiian Pizza (Medium),13.25
+hawaiian_l,The Hawaiian Pizza (Large),16.5
+ital_cpcllo_s,The Italian Capocollo Pizza (Small),12
+ital_cpcllo_m,The Italian Capocollo Pizza (Medium),16
+ital_cpcllo_l,The Italian Capocollo Pizza (Large),20.5
+napolitana_s,The Napolitana Pizza (Small),12
+napolitana_m,The Napolitana Pizza (Medium),16
+napolitana_l,The Napolitana Pizza (Large),20.5
+pep_msh_pep_s,"The Pepperoni, Mushroom, and Peppers Pizza (Small)",11
+pep_msh_pep_m,"The Pepperoni, Mushroom, and Peppers Pizza (Medium)",14.5
+pep_msh_pep_l,"The Pepperoni, Mushroom, and Peppers Pizza (Large)",17.5
+pepperoni_s,The Pepperoni Pizza (Small),9.75
+pepperoni_m,The Pepperoni Pizza (Medium),12.5
+pepperoni_l,The Pepperoni Pizza (Large),15.25
+the_greek_s,The Greek Pizza (Small),12
+the_greek_m,The Greek Pizza (Medium),16
+the_greek_l,The Greek Pizza (Large),20.5
+brie_carre_s,The Brie Carre Pizza (Small),23.65
+calabrese_s,The Calabrese Pizza (Small),12.25
+calabrese_m,The Calabrese Pizza (Medium),16.25
+calabrese_l,The Calabrese Pizza (Large),20.25
+ital_supr_s,The Italian Supreme Pizza (Small),12.5
+ital_supr_m,The Italian Supreme Pizza (Medium),16.5
+ital_supr_l,The Italian Supreme Pizza (Large),20.75
+peppr_salami_s,The Pepper Salami Pizza (Small),12.5
+peppr_salami_m,The Pepper Salami Pizza (Medium),16.5
+peppr_salami_l,The Pepper Salami Pizza (Large),20.75
+prsc_argla_s,The Prosciutto and Arugula Pizza (Small),12.5
+prsc_argla_m,The Prosciutto and Arugula Pizza (Medium),16.5
+prsc_argla_l,The Prosciutto and Arugula Pizza (Large),20.75
+sicilian_s,The Sicilian Pizza (Small),12.25
+sicilian_m,The Sicilian Pizza (Medium),16.25
+sicilian_l,The Sicilian Pizza (Large),20.25
+soppressata_s,The Soppressata Pizza (Small),12.5
+soppressata_m,The Soppressata Pizza (Medium),16.5
+soppressata_l,The Soppressata Pizza (Large),20.75
+spicy_ital_s,The Spicy Italian Pizza (Small),12.5
+spicy_ital_m,The Spicy Italian Pizza (Medium),16.5
+spicy_ital_l,The Spicy Italian Pizza (Large),20.75
+spinach_supr_s,The Spinach Supreme Pizza (Small),12.5
+spinach_supr_m,The Spinach Supreme Pizza (Medium),16.5
+spinach_supr_l,The Spinach Supreme Pizza (Large),20.75
+five_cheese_s,The Five Cheese Pizza (Small),12.5
+five_cheese_m,The Five Cheese Pizza (Medium),15.5
+five_cheese_l,The Five Cheese Pizza (Large),18.5
+four_cheese_s,The Four Cheese Pizza (Small),11.75
+four_cheese_m,The Four Cheese Pizza (Medium),14.75
+four_cheese_l,The Four Cheese Pizza (Large),17.95
+green_garden_s,The Green Garden Pizza (Small),12
+green_garden_m,The Green Garden Pizza (Medium),16
+green_garden_l,The Green Garden Pizza (Large),20.25
+ital_veggie_s,The Italian Vegetables Pizza (Small),12.75
+ital_veggie_m,The Italian Vegetables Pizza (Medium),16.75
+ital_veggie_l,The Italian Vegetables Pizza (Large),21
+mediterraneo_s,The Mediterranean Pizza (Small),12
+mediterraneo_m,The Mediterranean Pizza (Medium),16
+mediterraneo_l,The Mediterranean Pizza (Large),20.25
+mexicana_s,The Mexicana Pizza (Small),12
+mexicana_m,The Mexicana Pizza (Medium),16
+mexicana_l,The Mexicana Pizza (Large),20.25
+spin_pesto_s,The Spinach Pesto Pizza (Small),12.5
+spin_pesto_m,The Spinach Pesto Pizza (Medium),16.5
+spin_pesto_l,The Spinach Pesto Pizza (Large),20.75
+spinach_fet_s,The Spinach and Feta Pizza (Small),12
+spinach_fet_m,The Spinach and Feta Pizza (Medium),16
+spinach_fet_l,The Spinach and Feta Pizza (Large),20.25
+veggie_veg_s,The Vegetables + Vegetables Pizza (Small),12
+veggie_veg_m,The Vegetables + Vegetables Pizza (Medium),16
+veggie_veg_l,The Vegetables + Vegetables Pizza (Large),20.25
